@@ -9,7 +9,7 @@ import java.io.ObjectStreamException;
  * <p>
  * 防止反射：在私有构造方法中抛出异常
  * <p>
- * 防止反序列化：1. 使其不能反序列化 2. 定义Object readResolve()方法
+ * 防止反序列化：1. 使其不能反序列化 2. 使用
  */
 public class LazySingletonByDoubleCheck2 {
     private static volatile LazySingletonByDoubleCheck2 uniqueInstance;
