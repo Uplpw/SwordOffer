@@ -5,7 +5,14 @@
 
 **GitHub：** https://github.com/Uplpw/SwordOffer
 
-## 例题顺序
+## 1 基础算法（必备工具）
+主要提供一些经常使用基础算法实现（算是工具了），如数组的各种排序、二叉树的遍历等内容，之后若碰到其他基础算法，也会相应加入进来。
+序号     | 类型 | 链接
+-------    |      -----    | ------ 
+1  | 数组排序算法总结 |  [https://blog.csdn.net/qq_41866626/article/details/120477617](https://blog.csdn.net/qq_41866626/article/details/120477617)
+ 2 | 二叉树遍历算法总结 | [https://blog.csdn.net/qq_41866626/article/details/120483860](https://blog.csdn.net/qq_41866626/article/details/120483860)
+
+## 2 例题顺序
 下面是所有例题在《剑指offer》书中的页码、题目、以及题解链接。（目前已经刷过全部例题，现在需要时间整理，然后慢慢更新内容）
 
 页码     | 题目顺序 | 题目 |  链接
@@ -13,32 +20,32 @@
 25  | 1 | 赋值运算符函数 | [https://blog.csdn.net/qq_41866626/article/details/120416469](https://blog.csdn.net/qq_41866626/article/details/120416469)
 ~  | 2 | 单例模式 | [https://blog.csdn.net/qq_41866626/article/details/120434700](https://blog.csdn.net/qq_41866626/article/details/120434700)
 ~  | 3 | 数组中重复的数字 | [https://blog.csdn.net/qq_41866626/article/details/120427881](https://blog.csdn.net/qq_41866626/article/details/120427881)
-~  | 4 | 二维数组中的查找 | ~
-~  | 5 | 替换空格 | ~
-~  | 6 | 从尾到头打印链表 | ~
-~  | 7 | 重建二叉树 | ~
-~  | 8 | 二叉树的下一个节点 | ~
-~  | 9 | 用两个栈实现队列 | ~
-~  | 10 | 斐波那契数列 | ~
-~  | 11 | 旋转数组的最小数字 | ~
-~  | 12 | 矩阵中的路径 | ~
-~  | 13 | 机器人的运动范围 | ~
-~  | 14 | 剪绳子 | ~
-~  | 15 | 二进制中1的个数 | ~
-~  | 16 | 数值的整数次方 | ~
-~  | 17 | 打印从1到最大的n位数 | ~
-~  | 18 | 删除链表的节点 | ~
+~  | 4 | 二维数组中的查找 | [https://blog.csdn.net/qq_41866626/article/details/120440407](https://blog.csdn.net/qq_41866626/article/details/120440407)
+~  | 5 | 替换空格 | [https://blog.csdn.net/qq_41866626/article/details/120442211](https://blog.csdn.net/qq_41866626/article/details/120442211)
+~  | 6 | 从尾到头打印链表 | [https://blog.csdn.net/qq_41866626/article/details/120443008](https://blog.csdn.net/qq_41866626/article/details/120443008)
+~  | 7 | 重建二叉树 | [https://blog.csdn.net/qq_41866626/article/details/120449487](https://blog.csdn.net/qq_41866626/article/details/120449487)
+~  | 8 | 二叉树的下一个节点 | [https://blog.csdn.net/qq_41866626/article/details/120497887](https://blog.csdn.net/qq_41866626/article/details/120497887)
+~  | 9 | 用两个栈实现队列 | [https://blog.csdn.net/qq_41866626/article/details/120501601](https://blog.csdn.net/qq_41866626/article/details/120501601)
+~  | 10 | 斐波那契数列 | [https://blog.csdn.net/qq_41866626/article/details/120502705](https://blog.csdn.net/qq_41866626/article/details/120502705)
+~  | 11 | 旋转数组的最小数字 | [https://blog.csdn.net/qq_41866626/article/details/120502906](https://blog.csdn.net/qq_41866626/article/details/120502906)
+~  | 12 | 矩阵中的路径 | [https://blog.csdn.net/qq_41866626/article/details/120504322](https://blog.csdn.net/qq_41866626/article/details/120504322)
+~  | 13 | 机器人的运动范围 | [https://blog.csdn.net/qq_41866626/article/details/120505356](https://blog.csdn.net/qq_41866626/article/details/120505356)
+~  | 14 | 剪绳子 | [https://blog.csdn.net/qq_41866626/article/details/120508369](https://blog.csdn.net/qq_41866626/article/details/120508369)
+~  | 15 | 二进制中1的个数 | [https://blog.csdn.net/qq_41866626/article/details/120509462](https://blog.csdn.net/qq_41866626/article/details/120509462)
+~  | 16 | 数值的整数次方 | [https://blog.csdn.net/qq_41866626/article/details/120510312](https://blog.csdn.net/qq_41866626/article/details/120510312)
+~  | 17 | 打印从1到最大的n位数 | [https://blog.csdn.net/qq_41866626/article/details/120511818](https://blog.csdn.net/qq_41866626/article/details/120511818)
+~  | 18 | 删除链表的节点 | [https://blog.csdn.net/qq_41866626/article/details/120513647](https://blog.csdn.net/qq_41866626/article/details/120513647)
 ~  | 19 | 正则表达式匹配 | ~
-~  | 20 | 表示数值的字符串 | ~
-~  | 21 | 调整数组顺序使奇数位于偶数前面 | ~
-~  | 22 | 链表中倒数第k个节点 | ~
-~  | 23 | 链表中环的入口节点 | ~
-~  | 24 | 反转链表 | ~
-~  | 25 | 合并两个有序链表 | ~
-~  | 26 | 树的子结构 | ~
-~  | 27 | 二叉树的镜像 | ~
-~  | 28 | 对称的二叉树 | ~
-~  | 29 | 顺时针打印矩阵 | ~
+~  | 20 | 表示数值的字符串 | [https://blog.csdn.net/qq_41866626/article/details/120514642](https://blog.csdn.net/qq_41866626/article/details/120514642)
+~  | 21 | 调整数组顺序使奇数位于偶数前面 | [https://blog.csdn.net/qq_41866626/article/details/120515282](https://blog.csdn.net/qq_41866626/article/details/120515282)
+~  | 22 | 链表中倒数第k个节点 | [https://blog.csdn.net/qq_41866626/article/details/120515368](https://blog.csdn.net/qq_41866626/article/details/120515368)
+~  | 23 | 链表中环的入口节点 | [https://blog.csdn.net/qq_41866626/article/details/120515497](https://blog.csdn.net/qq_41866626/article/details/120515497)
+~  | 24 | 反转链表 | [https://blog.csdn.net/qq_41866626/article/details/120516871](https://blog.csdn.net/qq_41866626/article/details/120516871)
+~  | 25 | 合并两个有序链表 | [https://blog.csdn.net/qq_41866626/article/details/120517032](https://blog.csdn.net/qq_41866626/article/details/120517032)
+~  | 26 | 树的子结构 | [https://blog.csdn.net/qq_41866626/article/details/120517223](https://blog.csdn.net/qq_41866626/article/details/120517223)
+~  | 27 | 二叉树的镜像 | [https://blog.csdn.net/qq_41866626/article/details/120517526](https://blog.csdn.net/qq_41866626/article/details/120517526)
+~  | 28 | 对称的二叉树 | [https://blog.csdn.net/qq_41866626/article/details/120517676](https://blog.csdn.net/qq_41866626/article/details/120517676)
+~  | 29 | 顺时针打印矩阵 | [https://blog.csdn.net/qq_41866626/article/details/120518035](https://blog.csdn.net/qq_41866626/article/details/120518035)
 ~  | 30 | 包含min函数的栈 | ~
 ~  | 31 | 栈的压入弹出序列 | ~
 ~  | 32 | 从上到下打印二叉树 | ~
