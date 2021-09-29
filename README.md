@@ -13,8 +13,7 @@
  2 | 二叉树遍历算法总结 | [https://blog.csdn.net/qq_41866626/article/details/120483860](https://blog.csdn.net/qq_41866626/article/details/120483860)
 
 ## 2 例题顺序
-下面是所有例题在《剑指offer》书中的页码、题目、以及题解链接。（目前已经刷过全部例题，现在需要时间整理，然后慢慢更新内容）
-
+下面是所有例题在《剑指offer》书中的页码、题目、以及题解链接。（目前已经刷过全部例题（有些例题觉得比较难，就没有详细了解，直接走传送门吧），现在需要时间整理，然后慢慢更新内容）
 页码     | 题目顺序 | 题目 |  链接
 -------    |      -----    | ------ | -----
 25  | 1 | 赋值运算符函数 | [https://blog.csdn.net/qq_41866626/article/details/120416469](https://blog.csdn.net/qq_41866626/article/details/120416469)
@@ -35,7 +34,7 @@
 ~  | 16 | 数值的整数次方 | [https://blog.csdn.net/qq_41866626/article/details/120510312](https://blog.csdn.net/qq_41866626/article/details/120510312)
 ~  | 17 | 打印从1到最大的n位数 | [https://blog.csdn.net/qq_41866626/article/details/120511818](https://blog.csdn.net/qq_41866626/article/details/120511818)
 ~  | 18 | 删除链表的节点 | [https://blog.csdn.net/qq_41866626/article/details/120513647](https://blog.csdn.net/qq_41866626/article/details/120513647)
-~  | 19 | 正则表达式匹配 | ~
+~  | 19 | 正则表达式匹配 | [传送门 K神题解](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/solution/jian-zhi-offer-19-zheng-ze-biao-da-shi-pi-pei-dong/)
 ~  | 20 | 表示数值的字符串 | [https://blog.csdn.net/qq_41866626/article/details/120514642](https://blog.csdn.net/qq_41866626/article/details/120514642)
 ~  | 21 | 调整数组顺序使奇数位于偶数前面 | [https://blog.csdn.net/qq_41866626/article/details/120515282](https://blog.csdn.net/qq_41866626/article/details/120515282)
 ~  | 22 | 链表中倒数第k个节点 | [https://blog.csdn.net/qq_41866626/article/details/120515368](https://blog.csdn.net/qq_41866626/article/details/120515368)
@@ -46,22 +45,46 @@
 ~  | 27 | 二叉树的镜像 | [https://blog.csdn.net/qq_41866626/article/details/120517526](https://blog.csdn.net/qq_41866626/article/details/120517526)
 ~  | 28 | 对称的二叉树 | [https://blog.csdn.net/qq_41866626/article/details/120517676](https://blog.csdn.net/qq_41866626/article/details/120517676)
 ~  | 29 | 顺时针打印矩阵 | [https://blog.csdn.net/qq_41866626/article/details/120518035](https://blog.csdn.net/qq_41866626/article/details/120518035)
-~  | 30 | 包含min函数的栈 | ~
-~  | 31 | 栈的压入弹出序列 | ~
-~  | 32 | 从上到下打印二叉树 | ~
-~  | 33 | 二叉搜索树的后序遍历 | ~
-~  | 34 | 二叉树中和为某一值的路径 | ~
-~  | 35 | 复杂链表的复制 | ~
-~  | 36 | 二叉搜索树与双向链表 | ~
-~  | 37 | 序列化二叉树 | ~
-~  | 38 | 字符串的排列 | ~
-~  | 39 | 数组中出现次数超过一半的数字 | ~
+~  | 30 | 包含min函数的栈 | [https://blog.csdn.net/qq_41866626/article/details/120523872](https://blog.csdn.net/qq_41866626/article/details/120523872)
+~  | 31 | 栈的压入弹出序列 | [https://blog.csdn.net/qq_41866626/article/details/120524374](https://blog.csdn.net/qq_41866626/article/details/120524374)
+~  | 32 | 从上到下打印二叉树 | [https://blog.csdn.net/qq_41866626/article/details/120525566](https://blog.csdn.net/qq_41866626/article/details/120525566)
+~  | 33 | 二叉搜索树的后序遍历 | [https://blog.csdn.net/qq_41866626/article/details/120528109](https://blog.csdn.net/qq_41866626/article/details/120528109)
+~  | 34 | 二叉树中和为某一值的路径 | [https://blog.csdn.net/qq_41866626/article/details/120528322](https://blog.csdn.net/qq_41866626/article/details/120528322)
+~  | 35 | 复杂链表的复制 | [https://blog.csdn.net/qq_41866626/article/details/120528588](https://blog.csdn.net/qq_41866626/article/details/120528588)
+~  | 36 | 二叉搜索树与双向链表 | [https://blog.csdn.net/qq_41866626/article/details/120529445](https://blog.csdn.net/qq_41866626/article/details/120529445)
+~  | 37 | 序列化二叉树 | [https://blog.csdn.net/qq_41866626/article/details/120530586](https://blog.csdn.net/qq_41866626/article/details/120530586)
+~  | 38 | 字符串的排列 | [https://blog.csdn.net/qq_41866626/article/details/120531072](https://blog.csdn.net/qq_41866626/article/details/120531072)
+~  | 39 | 数组中出现次数超过一半的数字 | [https://blog.csdn.net/qq_41866626/article/details/120532284](https://blog.csdn.net/qq_41866626/article/details/120532284)
 ~  | 40 | 最小的k个数 | ~
 ~  | 41 | 数据流中的中位数 | ~
 ~  | 42 | 连续子数组的最大和 | ~
 ~  | 43 | 1~n整数中1出现的次数 | ~
 ~  | 44 | 数字序列中某一位的数字 | ~
 ~  | 45 | 把数组排列成最小的数 | ~
+~  | 46 | 把数字翻译成字符串 | ~
+~  | 47 | 礼物的最大值 | ~
+~  | 48 | 最长不含重复字符的子字符串 | ~
+~  | 49 | 丑数 | ~
+~  | 50 | 第一个只出现一次的字符 | ~
+~  | 51 | 数组中的逆序对 | ~
+~  | 52 | 两个链表的第一个公共节点 | ~
+~  | 53 | 数字在排序数组中出现的次数 | ~
+~  | 54 | 二叉搜索树的第k大节点 | ~
+~  | 55 | 二叉树的深度 | ~
+~  | 56 | 数组中只出现一次的两个数字 | ~
+~  | 57 | 和为s的数字 | ~
+~  | 58 | 翻转单词顺序 | ~
+~  | 59 | 滑动窗口的最大值 | ~
+~  | 60 | n个骰子的点数 | ~
+~  | 61 | 扑克牌中的顺子 | ~
+~  | 62 | 圆圈中最后剩下的数字 | ~
+~  | 63 | 股票的最大利润 | ~
+~  | 64 | 求 `1+2+...+n` | ~
+~  | 65 | 不用加减乘除做加法 | ~
+~  | 66 | 构建乘积数组 | ~
+~  | 67 | 把字符串转换成整数 | ~
+~  | 68 | 树中两个节点的最低公共祖先 | ~
+
 
 **参考**  
 
