@@ -1,12 +1,9 @@
 package com.java.offer.chapter2.ten;
 
-/*
-    一只青蛙一次可以跳上1级台阶，也可以跳上2级台阶。求该青蛙跳上一个 n 级的台阶总共有多少种跳法
-    解决：可以看出斐波那契数列问题，先从简单问题看
-
-    此类问题还有：用方格去填充方格，可以横着放或者竖着放
-
-    总之：从简单实例发现问题本质
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：青蛙跳台阶
  */
 public class FrogJumping {
     public static int frogJumping(int n) {
@@ -29,7 +26,7 @@ public class FrogJumping {
         return fibonacci;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println(frogJumping(1));
         System.out.println(frogJumping(2));
         System.out.println(frogJumping(3));

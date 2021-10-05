@@ -1,5 +1,10 @@
 package com.java.offer.chapter2.twelve;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：矩阵中的路径
+ */
 public class HasPathWithBacktracking {
     public static boolean hasPath(char[][] board, String str) {
         if (board == null || board.length == 0 || str == null || str.length() == 0) {
@@ -28,6 +33,7 @@ public class HasPathWithBacktracking {
         if (rowIndex < 0 || colIndex < 0 || rowIndex >= board.length || colIndex >= board[0].length) {
             return false;
         }
+        // 当前节点没有走过且匹配当前字符
         if (!flag[rowIndex][colIndex] && board[rowIndex][colIndex] == str.charAt(strIndex)) {
             flag[rowIndex][colIndex] = true;
             boolean result = hasPathCore(board, rowIndex + 1, colIndex, flag, str, strIndex + 1) ||

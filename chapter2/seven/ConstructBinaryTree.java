@@ -1,5 +1,10 @@
 package com.java.offer.chapter2.seven;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：重建二叉树
+ */
 public class ConstructBinaryTree {
 
     /**

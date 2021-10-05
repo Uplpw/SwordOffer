@@ -1,5 +1,10 @@
 package com.java.offer.chapter2.ten;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：斐波那契数列
+ */
 public class Fibonacci {
     // 递归解法，由于重复计算导致效率低，复杂度为O(n^2)
     public static int fibonacciRecursionly(int n) {

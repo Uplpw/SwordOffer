@@ -3,7 +3,7 @@ package com.java.offer.chapter2.six;
 /**
  * @Author lpw
  * @Date 2021/9/23 20:19
- * @Description
+ * @Description 剑指offer：链表结构
  */
 public class ListNode {
     public int val;

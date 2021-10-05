@@ -2,6 +2,11 @@ package com.java.offer.chapter2.fourteen;
 
 import java.lang.Math;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：剪绳子
+ */
 public class CuttingRope {
     // 动态规划解法
     public static int maxCutting(int n) {

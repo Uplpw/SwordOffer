@@ -4,6 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：二叉树遍历算法
+ */
 public class TreeOrder {
     public static TreeNode init() {
         TreeNode root = new TreeNode(10);
@@ -121,7 +126,7 @@ public class TreeOrder {
         TreeNode temp = null;
         while (!queue.isEmpty()) {
             temp = queue.poll();
-            System.out.print(temp.val+"\t");
+            System.out.print(temp.val + "\t");
             if (temp.left != null) {
                 queue.offer(temp.left);
             }

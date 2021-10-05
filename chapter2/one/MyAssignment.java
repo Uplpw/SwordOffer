@@ -3,7 +3,7 @@ package com.java.offer.chapter2.one;
 /**
  * @Author lpw
  * @Date 2021/9/22 16:34
- * @Description 剑指offer
+ * @Description 剑指offer：赋值运算符
  */
 public class MyAssignment {
 

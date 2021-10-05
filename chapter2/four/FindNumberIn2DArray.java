@@ -3,9 +3,7 @@ package com.java.offer.chapter2.four;
 /**
  * @Author lpw
  * @Date 2021/9/22 16:34
- * @Description 剑指offer
- *
- * 二维数组中的查找
+ * @Description 剑指offer：二维数组中的查找
  */
 public class FindNumberIn2DArray {
     public static boolean findNumberIn2DArray(int[][] matrix, int target) {
@@ -13,7 +11,7 @@ public class FindNumberIn2DArray {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
-        // 特殊情况处理（小与最小值、大于最大值，直接返回）
+        // 特殊情况处理（小于最小值、大于最大值，直接返回）
         if (matrix[0][0] > target || matrix[matrix.length - 1][matrix[0].length - 1] < target) {
             return false;
         }

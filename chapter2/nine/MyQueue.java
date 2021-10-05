@@ -2,6 +2,11 @@ package com.java.offer.chapter2.nine;
 
 import java.util.Stack;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：用两个栈实现队列
+ */
 public class MyQueue {
     private Stack<Integer> stack1 = new Stack<>();
     private Stack<Integer> stack2 = new Stack<>();

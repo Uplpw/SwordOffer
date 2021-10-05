@@ -1,10 +1,9 @@
 package com.java.offer.chapter2.eleven;
 
-/*
-    二分查找解决
-
-    把一个数组最开始的若干个元素搬到末尾成为数组的旋转，如1,2,3,4,5=>3,4,5,1,2；0,1,1,1,1=>1,1,1,0,1；0,1,1,1,1=>1,0,1,1,1。
-    求一个原本递增的数组旋转后的最小数字。
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：旋转数组的最小数字
  */
 public class MinNumberInRotatedArray {
     public static int min(int[] numbers) {
@@ -39,9 +38,9 @@ public class MinNumberInRotatedArray {
     }
 
     public static void main(String[] args) {
-        int[] data1 = {3,4,5,1,2};
-        int[] data2 = {1,0,1,1,1};
-        int[] data3 = {1,1,1,0,1};
+        int[] data1 = {3, 4, 5, 1, 2};
+        int[] data2 = {1, 0, 1, 1, 1};
+        int[] data3 = {1, 1, 1, 0, 1};
         System.out.println(min(data1));
         System.out.println(min(data2));
         System.out.println(min(data3));

@@ -3,13 +3,13 @@ package com.java.offer.chapter2.five;
 /**
  * @Author lpw
  * @Date 2021/9/22 16:34
- * @Description 剑指offer
- *
- * 替换空格
+ * @Description 剑指offer：替换空格
  */
 public class ReplaceSpace {
+    // 解法1（比较简单，不再赘述）
+
+    // 解法2
     public static String replaceSpace1(String s) {
-        // 解法2
         if (s == null || s.length() == 0) {
             return s;
         }

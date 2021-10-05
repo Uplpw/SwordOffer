@@ -1,5 +1,10 @@
 package com.java.offer.chapter2.eight;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：二叉树的下一个节点
+ */
 public class NextNodeInBinaryTrees {
     public static TreeNodeWithParent getNext(TreeNodeWithParent node) {
         if (node == null) {

@@ -1,18 +1,13 @@
 package com.java.offer.chapter2.six;
 
-import org.apache.groovy.contracts.common.impl.lc.PreconditionLifecycle;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-
 /**
  * @Author lpw
  * @Date 2021/9/22 16:34
- * @Description 剑指offer
- * <p>
- * 从尾到头打印链表
+ * @Description 剑指offer：从尾到头打印链表
  */
 public class PrintReverseLink {
     // 解法1：递归实现

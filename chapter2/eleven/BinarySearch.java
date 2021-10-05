@@ -1,13 +1,9 @@
 package com.java.offer.chapter2.eleven;
 
-/*
-    二分查找
-
-    方法内包含四个参数，分别是已排好序的数组（二分查找的前提是数组已经有序），待查找的起始索引start，待查找的结束索引end，目标元素target。
-    首先找到数组中的中间元素的索引，即mid = start + (end - start) / 2;比较mid指向元素与target是否相等，若相等则查找成功；若target比mid指向元素小，
-    则target在mid的左边，则下次查找的结束位置为mid-1;若target比mid指向元素大，则下次查找的起始范围为mid+1;
-    不断迭代直到start和end交叉开来，即start > end时，循环结束
-
+/**
+ * @Author lpw
+ * @Date 2021/9/23 20:19
+ * @Description 剑指offer：二分查找
  */
 public class BinarySearch {
     public static int binarySearch(int[] array, int start, int end, int target) {
