@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.twentyfour;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：反转链表
+ */
 public class ReverseList {
     public static ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {

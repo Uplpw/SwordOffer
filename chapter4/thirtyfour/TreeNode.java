@@ -1,4 +1,4 @@
-package com.java.offer.chapter3.twentysix;
+package com.java.offer.chapter4.thirtyfour;
 
 /**
  * @Author lpw

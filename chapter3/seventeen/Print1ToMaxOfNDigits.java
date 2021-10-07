@@ -3,9 +3,10 @@ package com.java.offer.chapter3.seventeen;
 import java.util.ArrayList;
 import java.util.List;
 
-/*  打印从1到最大的n位数
-
-    比如输入2，打印1,2......98,99；
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：打印从1到最大的n位数
  */
 public class Print1ToMaxOfNDigits {
     // 解法1：使用字符串模拟数字的加法

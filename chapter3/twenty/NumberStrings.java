@@ -1,7 +1,9 @@
 package com.java.offer.chapter3.twenty;
 
-/*
-    判断一个字符串是否表示数值
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：判断一个字符串是否表示数值
  */
 public class NumberStrings {
     // 解法1：分情况讨论

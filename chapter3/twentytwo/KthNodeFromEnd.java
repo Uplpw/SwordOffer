@@ -1,12 +1,9 @@
 package com.java.offer.chapter3.twentytwo;
 
-/*
-    题目要求：
-    求链表中倒数第k个节点。链表的尾节点定义为倒数第1个节点。
-
-    解题思路：
-    如果先求链表的长度，计算后再从头遍历，虽然时间复杂度是o(n),但需要两遍扫描。更好的方式是使用两个距离为k的指针向右移动，这种方式只需扫描一遍。
-
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：链表中倒数第k个节点
  */
 public class KthNodeFromEnd {
     public static ListNode getKthFromEnd(ListNode head, int k) {

@@ -1,7 +1,9 @@
 package com.java.offer.chapter3.twentyone;
 
-/*
-    调整数组顺序使奇数位于偶数前面
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：调整数组顺序使奇数位于偶数前面
  */
 public class ReorderArray {
     public static int[] exchange(int[] nums) {

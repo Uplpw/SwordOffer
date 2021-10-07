@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.twentytwo;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer
+ */
 public class ListNode {
     int val;
     ListNode next;

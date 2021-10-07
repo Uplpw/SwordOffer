@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.twentythree;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：链表中环的入口节点
+ */
 public class EntryNodeInList {
     public static ListNode detectCycle(ListNode head) {
         ListNode fast = head, slow = head;

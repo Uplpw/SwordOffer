@@ -3,7 +3,7 @@ package com.java.offer.chapter3.sixteen;
 /**
  * @Author lpw
  * @Date 2021/9/27 16:01
- * @Description
+ * @Description 剑指offer
  */
 public class test {
     public static void main(String[] args) throws Exception {

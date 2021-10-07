@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.eighteen;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：链表结构
+ */
 public class ListNode {
     public int val;
     public ListNode next;

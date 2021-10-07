@@ -1,10 +1,12 @@
 package com.java.offer.chapter3.sixteen;
 
-/*
-    实现 pow(x, n) ，即计算 x 的 n 次幂函数（即，xn）。不得使用库函数，同时不需要考虑大数问题。
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：数值的整数次方
  */
 public class Power {
-    // 循环计算 注意特殊情况，可以抛出异常
+    // 解法1：循环计算 注意特殊情况，可以抛出异常
     public static double power(double x, int n) throws Exception {
         if (equal(x, 0)) {
             if (n == 0) {
@@ -30,7 +32,7 @@ public class Power {
         }
     }
 
-    // 递归计算，可以抛出异常
+    // 解法2：递归计算，可以抛出异常
     public static double powerRecursionly(double x, int n) throws Exception {
         if (equal(x, 0)) {
             if (n == 0) {

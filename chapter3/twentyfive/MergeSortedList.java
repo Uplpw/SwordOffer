@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.twentyfive;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：合并有序链表
+ */
 public class MergeSortedList {
     // 循环实现
     public static ListNode mergeList(ListNode l1, ListNode l2) {

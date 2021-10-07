@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.eighteen;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：删除重复节点
+ */
 public class DeleteRepeatNodeInList {
     public static ListNode deleteRepeatNode(ListNode head) {
         if (head == null) {

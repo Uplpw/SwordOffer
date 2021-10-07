@@ -1,5 +1,10 @@
 package com.java.offer.chapter3.eighteen;
 
+/**
+ * @Author lpw
+ * @Date 2021/9/27 16:01
+ * @Description 剑指offer：删除链表的节点
+ */
 public class DeleteNodeInList {
     public static ListNode deleteNode(ListNode head, ListNode node) {
         if (head == null || node == null) {
