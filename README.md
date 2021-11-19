@@ -8,9 +8,9 @@
 ## 1 基础算法（必备工具）
 主要提供一些经常使用基础算法实现（算是工具了），如数组的各种排序、二叉树的遍历等内容，之后若碰到其他基础算法，也会相应加入进来。
 序号     | 类型 | 链接
--------    |      -----    | ------ 
+:-------:    |      :-----:    | :------:
 1  | 数组排序算法总结 |  [https://blog.csdn.net/qq_41866626/article/details/120477617](https://blog.csdn.net/qq_41866626/article/details/120477617)
- 2 | 二叉树遍历算法总结 | [https://blog.csdn.net/qq_41866626/article/details/120483860](https://blog.csdn.net/qq_41866626/article/details/120483860)
+2 | 二叉树遍历算法总结 | [https://blog.csdn.net/qq_41866626/article/details/120483860](https://blog.csdn.net/qq_41866626/article/details/120483860)
 
 ## 2 例题顺序
 下面是所有例题在《剑指offer》书中的页码、题目、以及题解链接。（目前已经刷过全部例题（有些例题觉得比较难，就没有详细了解，直接走传送门吧），已整理完毕 !!!）
