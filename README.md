@@ -15,7 +15,7 @@
 ## 2 例题顺序
 下面是所有例题在《剑指offer》书中的页码、题目、以及题解链接。（目前已经刷过全部例题（有些例题觉得比较难，就没有详细了解，直接走传送门吧），已整理完毕 !!!）
 页码     | 题目顺序 | 题目 |  链接
-:-------:    |      :-----:    | :------: | -----
+:-------:    |      :-----:    | :------: | :-----:
 25  | 1 | 赋值运算符函数 | [https://blog.csdn.net/qq_41866626/article/details/120416469](https://blog.csdn.net/qq_41866626/article/details/120416469)
 32  | 2 | 单例模式 | [https://blog.csdn.net/qq_41866626/article/details/120434700](https://blog.csdn.net/qq_41866626/article/details/120434700)
 39  | 3 | 数组中重复的数字 | [https://blog.csdn.net/qq_41866626/article/details/120427881](https://blog.csdn.net/qq_41866626/article/details/120427881)
